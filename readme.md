@@ -1,0 +1,1 @@
+Įvairūs hack'ai
