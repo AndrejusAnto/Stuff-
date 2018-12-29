@@ -1,0 +1,4 @@
+cd /lib/firmware/brcm
+sudo wget https://github.com/winterheart/broadcom-bt-firmware/raw/master/brcm/BCM20702A1-13d3-3411.hcd
+sudo modprobe -r btusb
+sudo modprobe btusb
