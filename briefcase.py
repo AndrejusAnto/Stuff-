@@ -56,12 +56,3 @@ while True:
 	else:
 		print("Ok, you chose:", system_image)
 		break
-
-
-
-
-
-
-
-
-# output_of_system_images_list = 
